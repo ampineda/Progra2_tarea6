@@ -1,6 +1,12 @@
 package Tarea6;
 
-import org.w3c.dom.css.CSSImportRule;
+/**
+ * @author Angel Magdiel Pineda Cruz
+ * @version 1.0
+ * pruebas
+ * prueba: se inicializan 2 instancias y se muestra en pantalla el calculo
+ * del area devuelto por la clase
+ */
 
 public class Test {
 

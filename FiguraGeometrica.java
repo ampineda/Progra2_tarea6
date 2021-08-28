@@ -1,5 +1,13 @@
 package Tarea6;
 
+/**
+ * @author Angel Magdiel Pineda Cruz
+ * @version 1.0
+ * superclase
+ * prueba: se inicializan 2 instancias y se muestra en pantalla el calculo
+ * del area devuelto por la clase
+ */
+
 public class FiguraGeometrica {
     private double area;
     private double base;
